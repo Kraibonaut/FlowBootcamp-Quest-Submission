@@ -1,7 +1,7 @@
 # Quest-Submission
 Bootcamp Emerald Academy
 
-# Chapitre1 Day 1
+# Chapter1 Day 1
 1. Explain what the Blockchain is in your own words.
  
 The blockchain is an open decentralized public database whitout midleman for the transaction.
@@ -14,7 +14,7 @@ A Smart Contract is a program with rules developed for the user to interact with
 
 A script allow you to view data on the blockchain, a transaction is the action to change data.
 
-# Chapitre1 Day 2
+# Chapter1 Day 2
 1. What are the 5 Cadence Programming Language Pillars?
 
 safety, clarity, approachability, dev experience, ressource oriented programming
