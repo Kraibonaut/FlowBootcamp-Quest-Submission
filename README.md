@@ -30,4 +30,8 @@ For the development and adoption of  flow cadence language must have all this pe
 
 2.Check that your variable is actually equals "the best" by executing a script to read that variable. Include a screenshot of the output.
 
+![JackobTucker](https://user-images.githubusercontent.com/79799749/188926959-1dfae10b-2e6d-498a-ad8a-acf82ec312d8.png)
+
+![ScriptJT](https://user-images.githubusercontent.com/79799749/188927563-15e479c8-29c6-4a98-ac44-af30f04af228.png)
+
 ![The-best](https://user-images.githubusercontent.com/79799749/188893515-80b90e12-6246-4b64-81e3-f62b3ac9b13b.png)
