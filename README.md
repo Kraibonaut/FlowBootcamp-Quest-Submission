@@ -35,3 +35,19 @@ For the development and adoption of  flow cadence language must have all this pe
 ![ScriptJT](https://user-images.githubusercontent.com/79799749/188927563-15e479c8-29c6-4a98-ac44-af30f04af228.png)
 
 ![The-best](https://user-images.githubusercontent.com/79799749/188893515-80b90e12-6246-4b64-81e3-f62b3ac9b13b.png)
+
+# Chapter2 Day2
+
+1.Explain why we wouldn't call changeGreeting in a script.
+
+2.What does the AuthAccount mean in the prepare phase of the transaction?
+
+3.What is the difference between the prepare phase and the execute phase in the transaction?
+
+4.Add two new things inside your contract:
+
+A variable named myNumber that has type Int (set it to 0 when the contract is deployed)
+A function named updateMyNumber that takes in a new number named newNumber as a parameter that has type Int and updates myNumber to be newNumber
+Add a script that reads myNumber from the contract
+
+Add a transaction that takes in a parameter named myNewNumber and passes it into the updateMyNumber function. Verify that your number changed by running the script again.
